@@ -1,0 +1,6 @@
+1|CS2021001|Rahul Sharma|rahul.sharma@college.edu|9876543210|2003-05-15|Computer Science
+2|CS2021002|Priya Patel|priya.patel@college.edu|9876543211|2003-08-22|Computer Science
+3|EC2021001|Amit Kumar|amit.kumar@college.edu|9876543212|2003-03-10|Electronics
+4|ME2021001|Sneha Gupta|sneha.gupta@college.edu|9876543213|2003-12-05|Mechanical
+5|12|mayank|may@gmail.com|903|2005-12-22|btech cse
+6|6|nimish|nimishguleria39@gmail.com|9015025122|2005-04-15|b.tec cse
